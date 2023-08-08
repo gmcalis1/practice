@@ -1,0 +1,14 @@
+p{
+    justify-content: center;
+    text-align: center;
+    color: blue;
+}
+.pictureContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.textContainer{
+    display: flex;
+    justify-content: center;
+}
